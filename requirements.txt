@@ -1,0 +1,8 @@
+# requirements.txt
+pymongo
+chromadb
+google-generativeai
+gradio
+python-dotenv
+PyMuPDF
+jira
